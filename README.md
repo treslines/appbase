@@ -11,6 +11,14 @@ Every android app has a lot of common code, which could be shared (platform spec
 - You write less code, have less bugs and do not repeat yourself (DRY)
 - You can focus on the core of your app
 
+**_Usage_**:
+```
+<dependency>
+  <groupId>com.treslines.appbase</groupId>
+  <artifactId>appbase</artifactId>
+  <version>1.0</version>
+</dependency>
+```
 
 ## What is in V1.0.0?
 - ViewExt.kt - Extensions for views
