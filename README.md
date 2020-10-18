@@ -40,6 +40,6 @@ Every android app has a lot of common code, which could be shared (platform spec
 <pre>
 <b>Ricardo Ferreira</b>
 Instagram: ricardo7307
-Twitter: r_i_c_a_r_d_o_f
+Twitter: ricardo_7307
 Needs Driven Development (NDD): <a href="http://codegramm.herokuapp.com/index.html">http://codegramm.herokuapp.com/index.html</a>
 </pre>
