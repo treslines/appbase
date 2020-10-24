@@ -39,8 +39,8 @@ Every android app has a lot of common code, which could be shared (platform spec
 ## Author:
 <pre>
 <b>Ricardo Ferreira</b>
-Instagram: ricardo7307
-Twitter: ricardo_7307
+Instagram - Programador de Elite: <a href="https://www.instagram.com/progdeelite/">@progdeelite > Fazer você ganhar + de R$700.000/ano programando!</a>  
+Twitter - Programador de Elite: <a href="https://twitter.com/progdeelite">@progdeelite > Fazer você ganhar + de R$700.000/ano programando!</a>
 Youtube - Programador de Elite: <a href="https://www.youtube.com/channel/UCsEdUK6zNAA95aGlqoBOclQ?sub_confirmation=1">Fazer você ganhar + de R$700.000/ano programando!</a>
-Needs Driven Development (NDD): <a href="http://codegramm.herokuapp.com/index.html">http://codegramm.herokuapp.com/index.html</a>
+Needs Driven Development (NDD): <a href="http://codegramm.herokuapp.com/index.html">Tired to figure out adequate design patterns for your app? Try it using codegram!</a>
 </pre>
