@@ -41,5 +41,6 @@ Every android app has a lot of common code, which could be shared (platform spec
 <b>Ricardo Ferreira</b>
 Instagram: ricardo7307
 Twitter: ricardo_7307
+Youtube - Programador de Elite: <a href="https://www.youtube.com/channel/UCsEdUK6zNAA95aGlqoBOclQ?sub_confirmation=1">Fazer você ganhar + de R$700.000/ano programando!</a>
 Needs Driven Development (NDD): <a href="http://codegramm.herokuapp.com/index.html">http://codegramm.herokuapp.com/index.html</a>
 </pre>
